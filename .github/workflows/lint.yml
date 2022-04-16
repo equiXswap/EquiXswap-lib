@@ -3,7 +3,7 @@ name: Lint
 on:
   push:
     branches:
-      - master
+      - alpha
   pull_request_target:
 
 jobs:

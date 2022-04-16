@@ -3,7 +3,7 @@ name: Mythril
 on:
   push:
     branches:
-      - master
+      - alpha
   pull_request:
 
 jobs:
