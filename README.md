@@ -4,7 +4,6 @@ Cloned from: [uniswap-lib](https://github.com/Uniswap/solidity-lib/commit/c01640
 
 [![Tests](https://github.com/equiXswap/EquiXswap-lib/workflows/Tests/badge.svg)](https://github.com/equiXswap/EquiXswap-lib/actions?query=workflow%3ATests)
 [![Static Analysis](https://github.com/equiXswap/EquiXswap-lib/workflows/Static%20Analysis/badge.svg)](https://github.com/equiXswap/EquiXswap-lib/actions?query=workflow%3A%22Static+Analysis%22)
-[![Lint](https://github.com/equiXswap/EquiXswap-lib/workflows/Lint/badge.svg)](https://github.com/equiXswap/EquiXswap-lib/actions?query=workflow%3ALint)
 [![Fuzz Testing](https://github.com/equiXswap/EquiXswap-lib/workflows/Fuzz%20Testing/badge.svg)](https://github.com/equiXswap/EquiXswap-lib/actions?query=workflow%3A%22Fuzz+Testing%22)
 [![npm](https://img.shields.io/npm/v/@equixswap/lib)](https://unpkg.com/@equixswap/lib@latest/)
 
